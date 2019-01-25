@@ -1,4 +1,5 @@
 [Clever Hiker](https://www.cleverhiker.com/footwear/) - Prefer trail runners to hiking shoes or boots  
+
 |Shoe|Weight|  
 |----|------|  
 |Saucony Peregrine 8| 1 lb. 4 oz|  
